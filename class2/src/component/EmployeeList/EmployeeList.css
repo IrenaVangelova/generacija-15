@@ -1,9 +1,0 @@
-.employee_wrapper {
-    display: flex;
-    flex-basis: 50%;
-    justify-content: space-evenly;
-    align-items: center;
-    border: 2px solid #eee;
-    margin: 0 auto;
-    width: 80%;
-}
